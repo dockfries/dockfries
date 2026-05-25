@@ -4,6 +4,10 @@
 
 💡 One should pursue freedom in one's life.
 
+**Support**
+
+[![Support on ifdian](https://img.shields.io/badge/Support-ifdian-orange.svg?style=flat-square&logo=afdian)](https://ifdian.net/a/carlyou)
+
 **Web Developer**
 
 <p>
