@@ -8,6 +8,8 @@
 
 [![Support on ifdian](https://img.shields.io/badge/Support-ifdian-orange.svg?style=flat-square&logo=afdian)](https://ifdian.net/a/carlyou)
 
+<sub>I have spent at least $227.87 in total — including donations to others' open-source projects and personal costs for maintaining my own.</sub>
+
 **Web Developer**
 
 <p>
