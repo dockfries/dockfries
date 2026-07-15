@@ -8,7 +8,9 @@
 
 [![Support on ifdian](https://img.shields.io/badge/Support-ifdian-orange.svg?style=flat-square&logo=afdian)](https://ifdian.net/a/carlyou)
 
-<sub>I have spent at least $227.87 in total — including donations to others' open-source projects and personal costs for maintaining my own.</sub>
+<sub>I have spent at least (232.3 USD / 1572.85 CNY) in total</sub>
+<br />
+<sub>including donations to others' open-source projects and personal costs like ai for maintaining my own.</sub>
 
 **Web Developer**
 
@@ -25,7 +27,7 @@
 
 [![wakatime](https://wakatime.com/badge/user/e2663cf7-29c1-48be-94d7-49d8dc6e7bd0.svg)](https://wakatime.com/@e2663cf7-29c1-48be-94d7-49d8dc6e7bd0)
 
-<img src="https://github-readme-stats.vercel.app/api?username=dockfries&show_icons=true&hide_title=true&hide_border=true&include_all_commits=true&line_height=21" /><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=dockfries&layout=compact&hide_title=true&hide_border=true&locale=cn&&hide=pawn,sourcepawn,nasl" />
+[![dockfries's GitHub stats](https://github-stats-extended.vercel.app/api?username=dockfries)](https://github.com/stats-organization/github-stats-extended)
 
 **Links**
 
