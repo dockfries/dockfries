@@ -1,6 +1,6 @@
 ### 🧑🏻‍💻 About Me
 
-🌱 I used to do front-end development work and now I am a flexible employee.
+🌱 I used to do front-end development work and now I am a flexible employee(freelance).
 
 💡 One should pursue freedom in one's life.
 
@@ -8,7 +8,7 @@
 
 [![Support on ifdian](https://img.shields.io/badge/Support-ifdian-orange.svg?style=flat-square&logo=afdian)](https://ifdian.net/a/carlyou)
 
-<sub>I have spent at least (256.81 USD / 1732.85 CNY) in total</sub>
+<sub>I have spent at least (291 USD / 1952 CNY) in total</sub>
 <br />
 <sub>including donations to others' open-source projects and personal costs like ai for maintaining my own.</sub>
 
