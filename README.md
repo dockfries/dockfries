@@ -4,10 +4,6 @@
 
 💡 One should pursue freedom in one's life.
 
-**Support**
-
-[![Support on ifdian](https://img.shields.io/badge/Support-ifdian-orange.svg?style=flat-square&logo=afdian)](https://ifdian.net/a/carlyou)
-
 <sub>I have spent at least (328 USD / 2196 CNY) in total</sub>
 <br />
 <sub>including donations to others' open-source projects and personal costs like ai for maintaining my own.</sub>
