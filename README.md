@@ -4,7 +4,7 @@
 
 💡 One should pursue freedom in one's life.
 
-<sub>I have spent at least (328 USD / 2196 CNY) in total</sub>
+<sub>I have spent at least (337 USD / 2246 CNY) in total</sub>
 <br />
 <sub>including donations to others' open-source projects and personal costs like ai for maintaining my own.</sub>
 
